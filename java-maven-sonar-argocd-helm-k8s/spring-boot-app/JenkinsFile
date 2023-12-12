@@ -41,8 +41,7 @@ pipeline {
           //  def dockerImage = docker.image("${DOCKER_IMAGE}")
           //  docker.withRegistry('https://login.docker.com/u/login/password?state=hKFo2SB6WDFMQlFMTTBrREVubzJFWU51WUo5RU11VFo5NmtKdqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGJNQXA1NmI2RmxnWktaSDk4SFRaaElSUG01NHVXMjBMo2NpZNkgbHZlOUdHbDhKdFNVcm5lUTFFVnVDMGxiakhkaTluYjk', "docker-cred") {
            //     dockerImage.push()
-
-            }
+          //  }
         }
       }
     }
