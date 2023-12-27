@@ -1,3 +1,3 @@
-def sonar(){
+def call(){
   sh 'echo sonar scanning in process'
 }
